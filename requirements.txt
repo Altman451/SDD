@@ -3,6 +3,5 @@ streamlit_option_menu
 firebase_admin
 pandas
 altair
-streamlit_extras.add_vertical_space
 plotly.graph_objects
 plotly.express
